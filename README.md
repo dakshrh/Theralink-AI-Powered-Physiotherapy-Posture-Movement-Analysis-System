@@ -80,3 +80,7 @@ python app.py
 
 The app will launch automatically in your browser at:
 http://127.0.0.1:8050/
+
+👤 Author
+Daksh Rathi AI & ML Enthusiast | Full-Stack Developer Focused on building real-world, production-grade applications with clean logic and reliable backend systems.
+⭐ If you like this project, feel free to star the repository!
